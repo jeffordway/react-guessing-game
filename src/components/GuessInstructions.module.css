@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;500&display=swap');
+
+.intro {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+.name {
+    font-size: 2.75rem;
+    font-weight: 500;
+    line-height: auto;
+
+}
+
+.number {
+    font-size: 1.75rem;
+    font-weight: 500;
+    line-height: auto;
+}
+
+.guess {
+    font-size: 1.25rem;
+    font-weight: 300;
+    line-height: auto;
+    margin-bottom: 0px;
+}

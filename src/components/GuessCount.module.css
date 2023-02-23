@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;500&display=swap");
+
+.message {
+  font-family: "IBM Plex Sans", sans-serif;
+  font-weight: 300;
+  padding: 0px;
+  margin: 0px;
+}
+
+.totalCount {
+  font-weight: 500;
+}
